@@ -1,0 +1,224 @@
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.deps.json
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.runtimeconfig.json
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\appsettings.json
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.exe
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.exe
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.deps.json
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.runtimeconfig.json
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.pdb
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.GridFS.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Snappier.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.pdb
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfoInputs.cache
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfo.cs
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.sourcelink.json
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CopyComplete
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\refint\CLIENT.dll
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.pdb
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.genruntimeconfig.cache
+C:\Users\Moha\Desktop\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\ref\CLIENT.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\refint\CLIENT.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.pdb
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.deps.json
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.runtimeconfig.json
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\appsettings.json
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.exe
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.exe
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.deps.json
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.runtimeconfig.json
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.pdb
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.GridFS.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Snappier.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.dll
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.pdb
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfoInputs.cache
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfo.cs
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.sourcelink.json
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CopyComplete
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.genruntimeconfig.cache
+C:\Users\Moha\Desktop\Projecta 2\Mongo\BooksLibrary\CLIENT\obj\Debug\net8.0\ref\CLIENT.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\refint\CLIENT.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.pdb
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.deps.json
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.runtimeconfig.json
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\appsettings.json
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.exe
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.exe
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.deps.json
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.runtimeconfig.json
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\CLIENT.pdb
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Driver.GridFS.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Snappier.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.dll
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\bin\Debug\net8.0\BooksLibrary.pdb
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfoInputs.cache
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfo.cs
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.sourcelink.json
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CopyComplete
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\CLIENT.genruntimeconfig.cache
+C:\Users\Moha\Desktop\Projecta 2\EntityFrameworkMongo\BooksLibrary\CLIENT\obj\Debug\net8.0\ref\CLIENT.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\refint\CLIENT.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.pdb
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.deps.json
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.runtimeconfig.json
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\appsettings.json
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.exe
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.exe
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.deps.json
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.runtimeconfig.json
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.pdb
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Driver.GridFS.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\Snappier.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.dll
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.pdb
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfoInputs.cache
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfo.cs
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CopyComplete
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.genruntimeconfig.cache
+C:\Users\Moha\Desktop\ProjectMongo\CLIENT\obj\Debug\net8.0\ref\CLIENT.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.deps.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.runtimeconfig.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\appsettings.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.exe
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMongoMusica.deps.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMongoMusica.runtimeconfig.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMongoMusica.exe
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.exe
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.deps.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.runtimeconfig.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\CLIENT.pdb
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Driver.GridFS.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\Snappier.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMongoMusica.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMusica.pdb
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\bin\Debug\net8.0\ApiMongoMusica.pdb
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.sourcelink.json
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.csproj.CopyComplete
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\refint\CLIENT.dll
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.pdb
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\CLIENT.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ReproductorMusica\baseDades\ProjectMongo\CLIENT\obj\Debug\net8.0\ref\CLIENT.dll

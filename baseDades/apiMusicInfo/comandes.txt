@@ -1,0 +1,21 @@
+dotnet aspnet-codegenerator controller -name BandController -async -api -m Band -dc DataContext -outDir Controllers
+dotnet aspnet-codegenerator controller -name MusicianController -async -api -m Musician -dc DataContext -outDir Controllers
+dotnet aspnet-codegenerator controller -name SongController -async -api -m Song -dc DataContext -outDir Controllers
+dotnet aspnet-codegenerator controller -name ExtensionController -async -api -m Extension -dc DataContext -outDir Controllers
+dotnet aspnet-codegenerator controller -name PlaylistController -async -api -m Playlist -dc DataContext -outDir Controllers
+dotnet aspnet-codegenerator controller -name InstrumentController -async -api -m Instrument -dc DataContext -outDir Controllers
+dotnet aspnet-codegenerator controller -name AlbumController -async -api -m Album -dc DataContext -outDir Controllers
+
+
+
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+dotnet add package Microsoft.EntityFrameworkCore.Relational
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+
+dotnet ef migrations add MigracionInicial
+dotnet ef database update MigracionInicial

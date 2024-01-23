@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".InfoAlbum">
+
+    <LinearLayout
+        android:id="@+id/PlayerHeader"
+        android:layout_marginTop="30dp"
+        android:layout_width="365dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/IconLeft"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/back"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:id="@+id/IconRight"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/more"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_marginTop="15dp"
+        android:layout_below="@id/PlayerHeader"
+        android:id="@+id/imgArtista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/albumcover"
+        android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+        android:id="@+id/Info"
+        android:layout_marginTop="25dp"
+        android:layout_below="@id/imgArtista"
+        android:layout_centerHorizontal="true"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="left">
+
+        <TextView
+            android:textColor="@color/black"
+            android:id="@+id/Albumname"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nom de l'abum"/>
+
+        <TextView
+            android:id="@+id/infoalbum"
+            android:layout_width="wrap_content"
+            android:fontFamily="sans-serif"
+            android:layout_height="wrap_content"
+            android:text="1999"
+            android:textSize="18dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_marginTop="35dp"
+        android:id="@+id/songs"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_below="@id/Info"
+        android:layout_centerHorizontal="true"
+        android:layout_width="300dp"
+        android:fontFamily="sans-serif"
+        android:layout_height="wrap_content"
+        android:text="Songs"
+        android:textSize="20dp"/>
+
+</RelativeLayout>

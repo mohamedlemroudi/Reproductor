@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".PujarCanso">
+
+    <LinearLayout
+        android:id="@+id/LinearTitol"
+        android:layout_height="wrap_content"
+        android:layout_width="365dp"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Upload A Song"
+            android:textSize="25dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:gravity="start"
+            android:layout_marginEnd="16dp"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/LinearTitol"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/SongName"
+            android:layout_width="365dp"
+            android:layout_height="70dp"
+            android:fontFamily="sans-serif"
+            android:textSize="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/edittextshape"
+            android:ems="10"
+            android:inputType="text"
+            android:paddingLeft="15dp"
+            android:hint="Song Name" />
+
+        <EditText
+            android:layout_marginTop="25dp"
+            android:id="@+id/ArtistName"
+            android:layout_width="365dp"
+            android:layout_height="70dp"
+            android:fontFamily="sans-serif"
+            android:textSize="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/edittextshape"
+            android:ems="10"
+            android:inputType="text"
+            android:paddingLeft="15dp"
+            android:hint="Artist Name" />
+
+        <EditText
+            android:layout_marginTop="25dp"
+            android:id="@+id/AlbumName"
+            android:layout_width="365dp"
+            android:layout_height="70dp"
+            android:fontFamily="sans-serif"
+            android:textSize="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/edittextshape"
+            android:ems="10"
+            android:inputType="text"
+            android:paddingLeft="15dp"
+            android:hint="Album Name" />
+
+        <EditText
+            android:layout_marginTop="25dp"
+            android:id="@+id/Upload"
+            android:layout_width="365dp"
+            android:layout_height="70dp"
+            android:fontFamily="sans-serif"
+            android:textSize="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/edittextshape"
+            android:ems="10"
+            android:inputType="text"
+            android:paddingLeft="15dp"
+            android:hint="Upload" />
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/button"
+            android:layout_width="365dp"
+            android:layout_height="70dp"
+            android:fontFamily="sans-serif"
+            android:textSize="20dp"
+            android:text="Button" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/BarraNavegacion"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_alignParentBottom="true">
+
+        <ImageView
+            android:id="@+id/Home"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/dashboard"
+            android:layout_gravity="center"/>
+
+        <!-- Espacio -->
+        <Space
+            android:layout_width="8dp"
+            android:layout_height="0dp"/>
+
+        <!-- Segunda imagen -->
+        <ImageView
+            android:id="@+id/Playlist"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/playlist"
+            android:layout_gravity="center"/>
+
+        <!-- Espacio -->
+        <Space
+            android:layout_width="8dp"
+            android:layout_height="0dp"/>
+
+        <!-- Tercera imagen -->
+        <ImageView
+            android:id="@+id/Albums"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/albums"
+            android:layout_gravity="center"/>
+
+        <!-- Espacio -->
+        <Space
+            android:layout_width="8dp"
+            android:layout_height="0dp"/>
+
+        <!-- Cuarta imagen -->
+        <ImageView
+            android:id="@+id/CrearCanco"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/newsong"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
